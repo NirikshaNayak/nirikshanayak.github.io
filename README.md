@@ -1,6 +1,6 @@
 # nirikshanayak.github.io-
 
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm Niriksha.
 
 I’m a **Technical Writer and AI Generalist in training**, blending human writing skills with the power of AI tools like ChatGPT, DALL·E, Canva, and Notion AI.
 

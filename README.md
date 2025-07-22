@@ -18,13 +18,13 @@ _A beginner-friendly help article written using AI + human editing._
 
 ### ✅ How to Pin Tabs in Chrome  
 _A step-by-step visual tutorial created as a slide deck and exported to PDF._  
-📎  [View PDF]([https://yourusername.github.io/filename.pdf](https://nirikshanayak.github.io/PresentationOnHowtoPinTabsinChrome.pdf))
+📎  [View PDF](#) (https://nirikshanayak.github.io/PresentationOnHowtoPinTabsinChrome.pdf)
 
 ---
 
 ### ✅ UX Microcopy for Clarity Notes  
 _A UX writing simulation for a fictional note-taking app. Includes empty state, tooltip, and error messages._  
-🧠 [Read microcopy](#) (link to Notion or paste directly here)
+🧠 [Read microcopy](#) (https://www.notion.so/Project-Microcopy-for-Clarity-Notes-UX-Writing-Simulation-23717928a5c7805284bcd75489b1fd25)
 
 ---
 

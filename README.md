@@ -4,11 +4,18 @@ I’m a Technical Writer & AI Generalist-in-self-training, blending writing, UX,
 
 This portfolio showcases hands-on projects I've completed as part of an AI content and UX training sprint — each one combining prompt engineering, visual design, and real-world writing skills.
 
-You’ll also find a few samples from company projects I've worked on, shared carefully while respecting confidentiality agreements.
+To showcase professional experience, I’ve included an adapted sample from a company project. It has been anonymized to respect confidentiality while retaining the quality and methodology of my work.
 
 ---
 
 ## 🧩 My Portfolio Projects
+
+### 🔐 Internal Project 
+_A technical documentation project (content modified for confidentiality)._
+📄 [View Sample PDF](https://nirikshanayak.github.io/ChatBot-SampleDocument.pdf)
+
+**Note:** This document has been adapted to remove or anonymize sensitive client information. While the structure, style, and approach reflect my real work, product-specific details have been redacted or altered in compliance with confidentiality agreements.
+
 
 ### ✅ How to Use Google Calendar’s Event Reminders  
 _A beginner-friendly help article written using AI + human editing._  

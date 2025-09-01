@@ -37,14 +37,23 @@ _A UX writing simulation for a fictional note-taking app. Includes empty state, 
 
 ---
 
+## 🎨 Creativity Beyond Writing
+
+I pour the same nerdy enthusiasm I use for documentation into storytelling and visuals — Sometimes even bribing AI to make cool images. After all, even my imagination occasionally needs a personal assistant.
+
+📸 [Follow my Instagram – Color & Captions](https://www.instagram.com/color_and_captions/)
+
+---
+
 ## 📬 About Me
 
 I'm exploring AI-driven content creation, UX writing, prompt engineering, and visual documentation.  
+
 Open to:
 - 📌 Remote or EU-based roles
 - 📋 Freelance or full-time opportunities in AI content, UX writing, documentation, and automation
 
 📧 nirikshanayak7@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/nirikshanayak/) 
+🔗 [Connect on LinkedIn](https://www.linkedin.com/in/nirikshanayak/) 
 
 _This site is powered by [GitHub Pages](https://pages.github.com) — showing not just my content, but also my Git/GitHub workflow knowledge._

@@ -10,12 +10,14 @@ To showcase professional experience, I’ve included an adapted sample from a co
 
 ## 🧩 My Portfolio Projects
 
-### 🔐 Internal Project 
+###  ✅ Internal Project 🔐
 _A technical documentation project (content modified for confidentiality)._
+
 📄 [View Sample PDF](https://nirikshanayak.github.io/ChatBot-SampleDocument.pdf)
 
 **Note:** This document has been adapted to remove or anonymize sensitive client information. While the structure, style, and approach reflect my real work, product-specific details have been redacted or altered in compliance with confidentiality agreements.
 
+---
 
 ### ✅ How to Use Google Calendar’s Event Reminders  
 _A beginner-friendly help article written using AI + human editing._  
@@ -43,6 +45,6 @@ Open to:
 - 📋 Freelance or full-time opportunities in AI content, UX writing, documentation, and automation
 
 📧 nirikshanayak7@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/niriksha-nayak-653a19117/)
+🔗 [LinkedIn](https://www.linkedin.com/in/nirikshanayak/) 
 
 _This site is powered by [GitHub Pages](https://pages.github.com) — showing not just my content, but also my Git/GitHub workflow knowledge._

@@ -21,7 +21,7 @@ _A technical documentation project (content modified for confidentiality)._
 
 ### ✅ How to Use Google Calendar’s Event Reminders  
 _A beginner-friendly help article written using AI + human editing._  
-🔗 [Read the article](https://nirikshanayak.github.io/google-calendar-reminders-guide.md)
+🔗 [Read the article](https://nirikshanayak.github.io/google-calendar-reminders-guide)
 
 ---
 

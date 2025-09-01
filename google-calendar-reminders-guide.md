@@ -11,12 +11,8 @@ layout: default
 
 > 🧠 **Case Study**  
 > This article was created as part of my AI-Enhanced Technical Writing training.  
-> Starting with a prompt designed to simulate a real-world help guide request,  
-> I used ChatGPT to draft the content. I then revised the output for tone, clarity,  
-> structure, and user-friendliness — ensuring it aligned with best practices in  
-> technical documentation.  
-> The result is a polished, user-ready article that showcases how AI and human  
-> editing can work together to accelerate high-quality content creation.
+> Starting with a prompt designed to simulate a real-world help guide request, I used ChatGPT to draft the content. I then revised the output for tone, clarity, structure, and user-friendliness — ensuring it aligned with best practices in technical documentation.  
+> The result is a polished, user-ready article that showcases how AI and human editing can work together to accelerate high-quality content creation.
 
 ---
 

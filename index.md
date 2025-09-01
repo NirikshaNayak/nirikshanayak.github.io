@@ -1,3 +1,8 @@
+---
+title: "How to Use Google Calendar's Event Reminders"
+layout: default
+---
+
 # How to Use Google Calendar’s Event Reminders
 
 ### *Never miss a meeting, appointment, or birthday again*
